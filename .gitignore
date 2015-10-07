@@ -16,6 +16,7 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+tasx/Config.plist
 
 # CocoaPods
 #
